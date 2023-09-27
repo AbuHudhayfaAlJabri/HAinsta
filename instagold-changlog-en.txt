@@ -1,4 +1,4 @@
-Version 5.0 Changelog:
+Version 1.0 Changelog:
 
 > [Base update] 278.0.0.21.117
 > [Exclusive] Anti-Screenshot tracker
